@@ -1,0 +1,401 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gospel-communion in the way of godlines sued for by the Protestant churches in Germany, unto the churches of Great Britain and Ireland / in a letter written and sent hither to that effect.</title>
+            <author>Dury, John, 1596-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37068</idno>
+            <idno type="STC">Wing D2862</idno>
+            <idno type="STC">ESTC R32776</idno>
+            <idno type="EEBO-CITATION">12753994</idno>
+            <idno type="OCLC">ocm 12753994</idno>
+            <idno type="VID">93371</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37068)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93371)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1526:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gospel-communion in the way of godlines sued for by the Protestant churches in Germany, unto the churches of Great Britain and Ireland / in a letter written and sent hither to that effect.</title>
+                  <author>Dury, John, 1596-1680.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Wodenothe ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 10: John Dury.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Europe --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93371:1"/>
+            <pb facs="tcp:93371:1" rendition="simple:additions"/>
+            <p>GOSPEL-COMMVNION In the Way of GODLINES: Sued for by The Proteſtant Churches in <hi>Germany,</hi> unto the Churches of <hi>Great Brittain</hi> and <hi>Ireland:</hi> In a Letter written and ſent hither to that effect.</p>
+            <figure>
+               <q>ALTVM SAPERE NOLI</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>LONDON, Printed for <hi>Richard Wodenothe</hi> in <hi>Leaden-hall</hi>-ſtreet, 1654.</p>
+         </div>
+      </front>
+      <body>
+         <div xml:lang="lat" type="text">
+            <pb facs="tcp:93371:2"/>
+            <pb n="1" facs="tcp:93371:2"/>
+            <head>Eccleſiarum Magnae Britanniae at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Hyberniae Patronis &amp; Antiſtibus Primariis, Exi<g ref="char:EOLhyphen"/>miis Dei ſervis at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Eccleſiae Laborantis in Ger<g ref="char:EOLhyphen"/>mania fautoribus Colendiſſimis: Sit Gratia &amp; Pax à Deo Patre, &amp; Domino noſtro Jeſu Chriſto per Spiritûs ſan<g ref="char:EOLhyphen"/>cti Communionem, <hi>AMEN.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">D</seg>Iverſa Spiritûs Dei dona membris Eccleſiae diverſis eſſe conceſſa, &amp; ſacra ora<g ref="char:EOLhyphen"/>cula teſtantur, &amp; res ipſa loquitur; finem tamen eun<g ref="char:EOLhyphen"/>dem Communis Aedificati<g ref="char:EOLhyphen"/>onis mutuae<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> utilitatis li<g ref="char:EOLhyphen"/>quet Patri luminum, datori omnis doni perfecti, propo<g ref="char:EOLhyphen"/>ſitum eſſe in omnium dono<g ref="char:EOLhyphen"/>rum largitione. Apoſtolus enim dicit, <hi>Unicui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> datam eſſe Spiritûs declarationem</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>: &amp; alibi jubemur, <hi>Ut quiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> accepit donum, ità alius in alium illud ſubminiſtret, ut decet bonos gratiae Dei diverſae</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. Talentum enim quod à Deo ſinguli accepimus,
+<pb n="2" facs="tcp:93371:3"/>fidei noſtrae commiſſum eſt, ut illius diſpenſatores facti, non illud defodiamus, ut nequam ille ſervus, in terram; ſed ad Domini emolumentum impendamus, ut cum fideli<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>jus ſervis, plura tam Domino quàm nobis ipſis lu<g ref="char:EOLhyphen"/>cri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>acere talenta poſſimus.</p>
+            <p>
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſpectant, Illuſtres, Clariſſimi<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Viri, Reveren<g ref="char:EOLhyphen"/>diſſimí<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan>, at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Reverendi in Chriſto Patres &amp; Fratres, ut, cum <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> cer<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> innotuerit inter Eccleſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as Magnae Britanniae <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>am Theologiae Practicae, multorum p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>è Doctorum Eccleſiae <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtrae Ant<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſtitum publicis ſcri<g ref="char:EOLhyphen"/>ptis egregiè exeultum eſſe, at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ad uſum Popularem in<g ref="char:EOLhyphen"/>ſigniter accomodatam, at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> eam ſolummodò linguae ve<g ref="char:EOLhyphen"/>ſtrae Cancellis tanquam reconditum ab exteris Nationi<g ref="char:EOLhyphen"/>bus, theſaurum contineri, &amp; aſſervari, maximám<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> uti<g ref="char:EOLhyphen"/>litatem ad omnes Eccleſias Chriſtianas, praeſertìm autem Evangelicas redundaturam, ſi quae vobis in hoc genere peculiaria ſunt, publicentur, ità ut ab tis quo<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> legi &amp; intelligi poſſint, ut (inquam, cùm haec ità ſe habeant) Il<g ref="char:EOLhyphen"/>luſtritatibus at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> Reverentiis Veſtris votum noſtrum ac deſiderium aperiamus, at<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> per ſanctae Communionis in Chriſto vinculum, fraternae<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> libertatis Parrheſiam ro<g ref="char:EOLhyphen"/>gemus, vos preſertim quotquot inter Eccleſiarum Recto<g ref="char:EOLhyphen"/>res, Protectores &amp; Fautores, eſtis aedificationis Publicae verè ſtudioſi, ne permittatis hoc Talentum tam pretio<g ref="char:EOLhyphen"/>ſum ulteriùs abſcondi &amp; occultari ab Exoticorum mani<g ref="char:EOLhyphen"/>bus &amp; oculis, ſed velitis pro prudentia veſtra, pro ferven<g ref="char:EOLhyphen"/>tis erga fraternas Eccleſias Charitatis, ac liberalis ſtu<g ref="char:EOLhyphen"/>diierga Dei gloriam in Evangelii propagatione, pio ze<g ref="char:EOLhyphen"/>lo &amp; affectu veſtro rationem aliquam inire commodam, quâ Medulla Auctorum in illo genere apud vos extanti<g ref="char:EOLhyphen"/>um &amp; eminentium ex omnibus collecta in volumen ali<g ref="char:EOLhyphen"/>quod
+<pb n="3" facs="tcp:93371:3"/>conjiciatur, ſive locorum communium, ſive Syſte<g ref="char:EOLhyphen"/>matis Theologiae practicae, quod publici juris ſit, &amp; om<g ref="char:EOLhyphen"/>nium manibus teri poſſit linguâ notâ &amp; doctioribus communi. Audivimus pauca quaedam in Belgicum ſer<g ref="char:EOLhyphen"/>monem eſſe tranſlata, quae magno uſui ſunt ill is Eccleſiis &amp; Theologiae ſtudioſis.</p>
+            <p>Nuper etiam inter nos Germanico idiomate editus li<g ref="char:EOLhyphen"/>bellus ex Anglico verſus de Praxi Pietatis ità afficit o<g ref="char:EOLhyphen"/>mnes Pietatis Cultores, ut indè religioni quae in pura mo<g ref="char:EOLhyphen"/>deſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> veritatis coeleſtis profeſſione conſiſtit, acceſſio<g ref="char:EOLhyphen"/>nem permagnam fiericonſtet. Ideò<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſperare nobis li<g ref="char:EOLhyphen"/>cet, ſi huic noſtro voto accedat per vos favor requiſitus, ut fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ilè inter veſtrates (quibus ad haec &amp; ſimilia: bene<g ref="char:EOLhyphen"/>ficia Eccleſiae ſuae praeſtanda pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> aliis tranquillitatem in hiſee turbis, &amp; facultates conceſſiſſe videtur divina cle<g ref="char:EOLhyphen"/>mentia) inveniantur aliqui, qui colligendis, transferen<g ref="char:EOLhyphen"/>dis, digerendis, atque evulgandis Auctorum praecipuis ſcriptis &amp; meditationibus practicis non gravatè ſuas impendant operas, ſuúm<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> talentum ſi id ſuadebitis; un<g ref="char:EOLhyphen"/>de futurum confidimus, ut inſigne Regnum Dei incre<g ref="char:EOLhyphen"/>mentum accipiat, ſi corpus abſolutum talis doctrinae ex<g ref="char:EOLhyphen"/>iſtet ex veſtris ſcriptoribus, in quo tam in Theologia Tyrones ſtudii ſui, quàm Eccleſiarum varii Paſtores Concionum ſuarum materiam invenire poſſint, aedificati<g ref="char:EOLhyphen"/>oni multò utiliorem quàm illa eſt quae hodie in ſcriptis Polemicis occurrit: ità a ſtudio contentionis ad Chari<g ref="char:EOLhyphen"/>tatis non fictae affectus revocari poterunt multorum ani<g ref="char:EOLhyphen"/>mi, ex quo tandem futurum ſit, ut ad Deum imprimis gloria &amp; gratiarum actio, ad Evangelii profeſſores cum Sanctitatis &amp; Pietatis ſtudio Pax &amp; Concordia, ad Ec<g ref="char:EOLhyphen"/>cleſias publica adificatio, ad ſimpliciores pia Eruditio,
+<pb n="4" facs="tcp:93371:4"/>ad pios &amp; afflictos, ſolida Spiritûs Conſolatio; ad er<g ref="char:EOLhyphen"/>rantes &amp; devios, ſalutaris Converſio; ad ſecuros &amp; car<g ref="char:EOLhyphen"/>nales, vivida conſcientiae exſuſcitatio; ad Hypocritas &amp; obſtinatos, clara perverſitatis ſuae convictio; ad o<g ref="char:EOLhyphen"/>mnes etiam poſteros, major lux veritatis perveniat; &amp; ad illos denique, qui ſuum in hoc ſtudio Talentum col<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<g ref="char:EOLhyphen"/>cabunt ad Regni Dei Promotionem, accedat illa vox quon<g ref="char:EOLhyphen"/>dam glorioſa &amp; beata à Domino, qui rationem accepti Talenti conferet nobiſcum: Bene eſt, Serve b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ne &amp; Fi<g ref="char:EOLhyphen"/>delis, in exiguo fuiſti fidelis, ſuper multa te conſtituam: Ingredere in Gaudium Domini tui.</p>
+            <p>Quod gaudium omnibus iis quibus poſtulatum hoc no<g ref="char:EOLhyphen"/>ſtrum patefiet, &amp; gratum erit, cum omni corporali f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eli<g ref="char:EOLhyphen"/>citate ex animo vovemus. Valete in Domino Viri Ex<g ref="char:EOLhyphen"/>cellentes, atque omni honore nobis colendi. Dabantur <hi>Ha<g ref="char:EOLhyphen"/>noviae 24 Febr.</hi> Anno <hi>1633.</hi>
+            </p>
+            <list>
+               <item>Joannes Daniel Wildius, <hi>Verbi Divin<g ref="char:punc">▪</g> Miniſt. &amp; Eccleſiae</hi> Ha<g ref="char:EOLhyphen"/>novicae <hi>Inſpector,</hi> M.P.</item>
+               <item>Theodorus Leurelius, <hi>Eccleſiae</hi> Hanovicae <hi>Miniſt.</hi>
+               </item>
+               <item>Conradus Ammonius <hi>Concionator Aulicus, ibid.</hi>
+               </item>
+               <item>Paulus Toſſanus, <hi>S. Theolog. D. &amp; Senatûs Eccleſiaſtici in in<g ref="char:EOLhyphen"/>feriori</hi> Palatinatu <hi>Electorali Aſſeſſor.</hi>
+               </item>
+               <item>Clemens Boecius, <hi>Eccleſiae</hi> Gallicae Neo-Hanovicae <hi>Paſtor.</hi>
+               </item>
+               <item>Iſaacus Boots, <hi>Paſtor Eccleſiae</hi> Flandricae, <hi>quae Chriſto colligi<g ref="char:EOLhyphen"/>tur</hi> Hanoviae.</item>
+               <item>Matthaus Rowyer, <hi>Eccleſiae</hi> Gallicae Neo-Han. <hi>Paſtor</hi>
+               </item>
+               <item>
+                  <hi>M.</hi> Philippus Pareus Davidis <hi>Filius Illuſtris Gymnaſii</hi> Hanovi<g ref="char:EOLhyphen"/>enſis <hi>Rector &amp; Profeſſor.</hi>
+               </item>
+            </list>
+            <p>Praeter hoſce qui <hi>Hanoviae</hi> huic Epiſtolae ſubſcripſerunt, alii etiam eidem <hi>Herbornae,</hi> &amp; alibi ſubſcripſerunt, in <hi>Martio</hi> &amp; <hi>Aprili,</hi> eodem anno <hi>1633,</hi> quorum no<g ref="char:EOLhyphen"/>mina hîc addita ſunt.</p>
+            <list>
+               <item>Petr<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Streithagen, <hi>Sereniſſ. Regis</hi> Bohemiae <hi>beatae memoriae Concionator Aulicus.</hi>
+               </item>
+               <pb n="5" facs="tcp:93371:4"/>
+               <item>Job. Moriaen, <hi>V. Div. quondam apud</hi> 
+                  <g ref="char:V">Ʋ</g>bi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s <hi>Miniſter, ſubſcripſi</hi> Francofurti <hi>23</hi> April. <hi>1633.</hi>
+               </item>
+               <item>Philippus Snabelius, Hoingae Solmenſis <hi>Patriae Paſtor.</hi>
+               </item>
+               <item>Johan. Conradus Hopfius <hi>V.D. Miniſter in Comitatu</hi> Hanovics, <hi>in</hi> Marchabel <hi>Exul</hi> Palatinus.</item>
+               <item>
+                  <hi>Perutile hoc Propoſitum &amp; commune fratrum</hi> Germanorum <hi>votum, meâ quoque ſubſcriptione confirmare volui:</hi>
+               </item>
+               <item>
+                  <hi>Ego</hi> Henricus Meerbottius <hi>P. F. Paſtor</hi> S<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reſhe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mi Ladenburgi<g ref="char:EOLhyphen"/>cus, <hi>in Elect.</hi> Palatinatu.</item>
+               <item>Johan. Irlin, <hi>Theol. Doctor, Scholae</hi> Herbonenſis <hi>Rector &amp; Profeſſor, Eccleſiae ejuſdem Paſtor, &amp; Vicinarum</hi> Naſſo<g ref="char:EOLhyphen"/>vicarum <hi>Inſpector, M.P.</hi>
+               </item>
+               <item>
+                  <hi>Mr.</hi> Caſparus Stippius, <hi>Eccleſiae</hi> Sieginenſis <hi>Archidiaconus; qui ſuo &amp; reliquorum fratrum in Comitatu</hi> Naſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vico Siegenen<g ref="char:EOLhyphen"/>ſi, <hi>nomine ſubſcripſit.</hi>
+               </item>
+               <item>Johannes Arcularius, <hi>Eccleſiae</hi> Beilſteinſis <hi>Paſtor, qui ſuo &amp; re<g ref="char:EOLhyphen"/>liquorum fratrum in Comitatu</hi> Naſſovico Beilſtemenſi <hi>&amp;</hi> Or<g ref="char:EOLhyphen"/>zenſi <hi>ſubſeripſit.</hi>
+               </item>
+               <item>Thomas Dorn, <hi>Paſtor</hi> Altenkirchenſis <hi>nomine Eccleſiarum Co<g ref="char:EOLhyphen"/>mitatus</hi> Sainenſis, <hi>M.P.</hi>
+               </item>
+            </list>
+         </div>
+         <div xml:lang="eng" type="text">
+            <pb n="6" facs="tcp:93371:5"/>
+            <head>
+               <hi>In Engliſh it ſpeaks thus:</hi> To the Chief Patrons and Rulers of the Churches of Great Brittain and <hi>Ireland,</hi> the emi<g ref="char:EOLhyphen"/>nent Servants of God, and moſt reſpected favour<g ref="char:EOLhyphen"/>ers of the diſtreſſed Church in <hi>Germany:</hi> Be Grace and Peace from God the Fa<g ref="char:EOLhyphen"/>ther, and our Lord Jeſus Chriſt, through the Communion of the Holy Ghoſt, <hi>Amen.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough it is atteſted by the holy Ora<g ref="char:EOLhyphen"/>cles: and the thing it ſelf doth ſpeak it, that to the ſeverall members of the Church ſeverall Gifts of Gods Spirit are beſtowed; yet it is evident that the Father of Lights, the Giver of e<g ref="char:EOLhyphen"/>very perfect gift doth in the diſtribu<g ref="char:EOLhyphen"/>tion of all his Gifts propoſe unto him<g ref="char:EOLhyphen"/>ſelf but one and the ſame end, which is the common edification and mutuall uſefulneſſe of all un<g ref="char:EOLhyphen"/>to each other.. For the Apoſtle ſaith, that <hi>The manifeſtation of the Spirit is given to every one to profit withall:</hi> and elſewhere we are commanded, <hi>As every one hath received the Gifts, even ſo to miniſter the ſame unto one another, as good Stewards of the mani<g ref="char:EOLhyphen"/>fold graces of God.</hi> For the talent which every one of us hath received of God, is committed to our Truſt, that we being made diſtributers thereof, ſhould not dig it in the ground, as that unprofitable ſervant did; but employ it to the advantage of our Lord: that with ſuch ſervants as are faithful unto him, we may gain more Talents both to our Maſters uſe, and to ourſelves.</p>
+            <pb n="7" facs="tcp:93371:5"/>
+            <p>Theſe things, Illuſtrious and Renowned Gentlemen, moſt Reverend, and Reverend Fathers, and Brethren in Chriſt, are alledged; to the end we may acquaint you with our wiſh<g ref="char:EOLhyphen"/>es and deſires, that ſeeing we are certainly informed, that in the Churches of Great Brittain, the doctrine of Practicall Divinity by the publick Writings of many godly wiſe Mini<g ref="char:EOLhyphen"/>ſters of your Churches, is brought to a great perfection, and that it is excellently fitted for the uſe of the Common Peo<g ref="char:EOLhyphen"/>ple, but yet kept up as a hidden treaſure from the eyes of forreign Nations within the bounds of your own language alone, and that a very great benefit would accrew unto all Chriſtian Churches, and chiefly to thoſe that profeſſe the purity of the Goſpel, if ſo be thoſe things which are pecu<g ref="char:EOLhyphen"/>liar unto you, were publiſhed, ſo as by them they might alſo be read and underſtood: ſeeing (we ſay) theſe things are ſo; our purpoſe is to acquaint your Honours and Worſhips with our wiſhes and deſires; and by the bond of holy communi<g ref="char:EOLhyphen"/>on in Chriſt; and with that confidence of ſpeech which our Brotherly freedom doth ſuggeſt; to intreat (you chiefly, who being Rulers, Protectors and Favourers of the Churches, are truly deſirous to edifie the Publick) that you would not ſuf<g ref="char:EOLhyphen"/>fer ſo precious a Talent to be hid and concealed any longer from the hands and eyes of forreigners: but that you would according to the pious zeal and affection of fervent Charity, which you have towards Brother-churches: and the bounti<g ref="char:EOLhyphen"/>ful care which you have for the glory of God in the Propa<g ref="char:EOLhyphen"/>gation of the Goſpel take ſome convenient courſe by which the marrow of thoſe Authours, which in that kinde are ex<g ref="char:EOLhyphen"/>tant amongſt you, and are of chief note; may be gathered out of all into one Volume, either of Common Places, or of a Body of Practical Divinity: which may be publiſhed and made uſe of by all in a tongue known and common to the Learned.</p>
+            <p>We have heard that ſome few things have been tranſla<g ref="char:EOLhyphen"/>ted into the Low Dutch Language; which are of great uſe unto thoſe Churches, and their Scholars of Divinity.</p>
+            <p>Of late alſo there is a little Book of the <hi>Practice of Piety,</hi> tranſlated out of the Engliſh into our Germane tongue;
+<pb n="8" facs="tcp:93371:6"/>which hath taken ſo much with many godly ſouls; that we finde thereby wrought in them, a very great growth of that Religious diſpoſition, which doth conſiſt in a pure and modeſt Profeſſion of Heavenly Truth: for which cauſe (we hope) that if our wiſhes may obtein by your means the favour which is deſired, that ſome of your men (to whom God ſeemeth mercifully to have given, in the midſt of theſe troubles both quietneſs, and means to confer theſe and ſuch like benefits unto his Church) will eaſily be found, who without difficulty will at your Perſwaſion, beſtow their pains and their Talents to collect, to tranſlate, to digeſt, and to publiſh the chief Practical Writings and Meditations of your Authours. Whence we are confident this will come to paſs, that the Kingdom of God will receive a notable enlarge<g ref="char:EOLhyphen"/>ment, if a Compleat Body of ſuch Doctrine out of your Writers were put forth; wherein as well the young Scholars of Divinity for their ſtudies: as many Paſtors of the Chur<g ref="char:EOLhyphen"/>ches for their Sermons, might finde matter farre more uſeful unto edification, then that is, which now a dayes is met with<g ref="char:EOLhyphen"/>all in Controverſal Writings: So that by this means, the mindes of many men may be drawn back from the endevours of ſtrife, unto the affections of unfeigned Charity; whence afterwards this will follow; that unto God in the firſt place Glory and Thankſgiving will redound; and then unto the Profeſſors of the Goſpel, with the care of Holineſſe and Pie<g ref="char:EOLhyphen"/>ty, Peace and Concord; to the Churches, publick edification; to the ſimpler ſort, Pious learning; to the Godly and afflicted, ſound ſpiritual comfort; to the erring and ſuch as go aſtray, ſaving Converſion; to ſuch as are ſecure and carnal, a lively wakening of their conſcience; to the Hypocrites and ſtubborn ſinners, a cleer diſcovery of their Perveſneſſe; and to all the Generations to come, a greater light of Truth will be ad<g ref="char:EOLhyphen"/>vanced; and laſtly, unto thoſe that ſhall beſtow their Talent towards this Endeavour, for the Advancement of Gods Kingdom: when he ſhall call us to an account of the Talent, which we have received from him; that glorious and bleſſed voice ſhall then come from the Lord unto them: <hi>Well done, thou good and faithful ſervant, thou haſt been faithful in a few
+<pb n="9" facs="tcp:93371:6"/>things, I will make thee Ruler over many things, enter into the joy of thy Lord:</hi> which joy we wiſh from our heart, together with all temporal happineſs; to all thoſe, to whom this our Requeſt ſhall be made known; and with whom it ſhall finde acceptance.</p>
+            <p>Farewel in the Lord Excellent Gentlemen, whom with all re<g ref="char:EOLhyphen"/>ſpect we are bound to worſhip. <hi>Given at</hi> Hanaw 24 <hi>Febr.</hi> 1633. <hi>By</hi>
+               <list>
+                  <item>
+                     <hi>John Daniel Wildius</hi> Miniſter of Gods Word, and Inſpector of the Churches of <hi>Hanaw. M.P.</hi>
+                  </item>
+                  <item>
+                     <hi>Theodorus Leurelius,</hi> Preacher of the Church of <hi>Hanaw.</hi>
+                  </item>
+                  <item>
+                     <hi>Conradus Amonius,</hi> Preacher to the Court in the ſame place.</item>
+                  <item>
+                     <hi>Paulus Toſſanus,</hi> Doctor of Divinity, and Aſſeſſor of the Eccleſiaſtical Senate in the lower Electoral <hi>Palatinate.</hi>
+                  </item>
+                  <item>
+                     <hi>Clemens Boecius,</hi> Paſtor of the French Church in New <hi>Hanaw.</hi>
+                  </item>
+                  <item>
+                     <hi>Iſaacus Boots,</hi> Paſtor of the <hi>Flanders</hi> Church, which is gathered unto Chriſt in <hi>Hanaw.</hi>
+                  </item>
+                  <item>
+                     <hi>Matthew Rowyer,</hi> Paſtor of the French Church at New <hi>Hanaw.</hi>
+                  </item>
+                  <item>Mr. <hi>Philip Pareus</hi> ſon to <hi>David,</hi> Rector and Profeſſor of the famous Colledge of <hi>Hanaw.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>
+               <hi>At</hi> Herborne <hi>in</hi> March <hi>and elſewhere in</hi> April, <hi>in the ſame yeer</hi> 1633, <hi>the ſame ſuit was renewed by theſe:</hi>
+            </p>
+            <list>
+               <item>
+                  <hi>Petrus Streithagen,</hi> Preacher to the Court of the moſt Illuſtrious King of <hi>Bo<g ref="char:EOLhyphen"/>hemia,</hi> of bleſſed memory.</item>
+               <item>
+                  <hi>John Moriaen,</hi> formerly Preacher of Gods Word amongſt thoſe of <hi>Collen.</hi> I did under-write this at <hi>Francfortt</hi> 23 <hi>April</hi> 1633.</item>
+               <item>
+                  <hi>Philip Snabelius</hi> of <hi>Hoing</hi> in the County of <hi>Solms,</hi> Preacher to his native Church.</item>
+               <item>
+                  <hi>John Conradus Hopfius,</hi> Miniſter of the Word of God in the County of <hi>Ha<g ref="char:EOLhyphen"/>naw</hi> in <hi>Merchabel,</hi> an exiled Palatine.</item>
+               <item>I <hi>Henry Meerbottius,</hi> for the preſent time Paſtor of <hi>Scheſheim Ladenburg</hi> in the Electoral <hi>Palatinate:</hi> am willing to confirm alſo with my Subſcription, this moſt profitable intention and common wiſh of our Brethren of <hi>Germany.</hi>
+               </item>
+               <item>
+                  <hi>John Irlin,</hi> Doctor of Divinity, Rector and Profeſſor of the School of <hi>Her<g ref="char:EOLhyphen"/>born,</hi> Paſtor of the Church of the ſame place, and Inſpector of the neigh<g ref="char:EOLhyphen"/>bouring Churches of <hi>Naſſaw. M.P.</hi>
+               </item>
+               <item>Mr. <hi>Caſparus Stippius,</hi> Archdeacon of the Church of <hi>Siegen,</hi> who ſubſcribed in his own name, and in the name of the reſt of his Brethren, in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Siegen</hi> in <hi>Naſſaw.</hi>
+               </item>
+               <item>
+                  <hi>John Arcularius</hi> Paſtor of the Church of <hi>Beilſtein,</hi> who ſubſcribed in his own name, and in the name of the reſt of his Brethren, in the Counties of <hi>Beil<g ref="char:EOLhyphen"/>ſtein</hi> and <hi>Orzen</hi> in <hi>Naſſaw.</hi>
+               </item>
+               <item>
+                  <hi>Thomas Dorn,</hi> Paſtor of <hi>Altenkirck,</hi> in the name of the Churches of the County of <hi>Sainen. M. P.</hi>
+               </item>
+            </list>
+            <pb n="10" facs="tcp:93371:7" rendition="simple:additions"/>
+            <p>THis Letter doth ſpeak ſufficiently for it ſelf, and the perſons who did<g ref="char:punc">▪</g> write it were in theſe parts none of the leaſt conſiderable in theſe times; nor is their number ſmall, if you take notice of the Churches in whoſe names the Subſcriptions are made; and although the time ſince this Letter was ſent, may ſeem ſomewhat long, yet becauſe that which hitherto could be done to obtein their deſire hath not bin neglected, though by ſeveral invincible impediments obſtructed, becauſe the expectation of obteining it is not vaniſhed, but at this time raiſed, and becauſe ſuch a Suit as this can never be out of date till it be fulfilled, nay, although the firſt Petitioners ſhould all be dead, it ought not the leſs conſcionably to be regarded by thoſe to whom it is made; becauſe it doth not at all concern any temporal, or ſo much the particular conveniency of thoſe that make it, as the ſpiritual edification, and general benefit of all the Churches of God, and of the ages to come in the Goſpel: I ſay becauſe of all theſe conſiderations; and more that might be ad<g ref="char:EOLhyphen"/>ded; therefore I am willing to ſecond their requeſt, as many wayes I am bound to do: and to that effect that the accompliſh<g ref="char:EOLhyphen"/>ment of their deſire may be obteined with more readineſs and fa<g ref="char:EOLhyphen"/>cility, I have added hereunto a Summary Platform of the heads of ſuch a Body of Divinity as they ſue for, which may give the Undertakers ſome occaſion to think further upon the matter, which (I hope) God will bleſs in their hand; whereunto the en<g ref="char:EOLhyphen"/>deavours and prayers ſhall not be wanting, of their</p>
+            <closer>
+               <signed>
+                  <hi>Humble Servant in Chriſt,</hi> John Dury.</signed>
+            </closer>
+            <pb facs="tcp:93371:7"/>
+         </div>
+      </body>
+   </text>
+</TEI>
